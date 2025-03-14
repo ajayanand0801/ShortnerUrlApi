@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShortenUrlApi.Presentation</name>
+    </assembly>
+    <members>
+        <member name="T:ShortenUrlApi.Presentation.Controllers.ShortenUrlController">
+            <summary>
+            Controller for URL shortening operations
+            </summary>
+        </member>
+        <member name="M:ShortenUrlApi.Presentation.Controllers.ShortenUrlController.#ctor(ShortenUrlApi.Application.Interfaces.IUrlShortenerService)">
+            <summary>
+            Initializes a new instance of the ShortenUrlController
+            </summary>
+            <param name="urlShortenerService">The URL shortener service</param>
+        </member>
+        <member name="M:ShortenUrlApi.Presentation.Controllers.ShortenUrlController.ShortenUrl(ShortenUrlApi.Presentation.Models.ShortenUrlRequest)">
+            <summary>
+            Creates a shortened version of the provided URL
+            </summary>
+            <param name="request">Request containing the original URL to shorten</param>
+            <returns>Response containing both the original and shortened URLs</returns>
+            <response code="200">Returns the shortened URL</response>
+            <response code="400">If the URL is invalid or empty</response>
+        </member>
+        <member name="M:ShortenUrlApi.Presentation.Controllers.ShortenUrlController.GetOriginalUrl(System.String)">
+            <summary>
+            Retrieves the original URL for a given short code
+            </summary>
+            <param name="shortCode">The short code to look up</param>
+            <returns>The original URL if found</returns>
+            <response code="200">Returns the original URL</response>
+            <response code="404">If the short code is not found</response>
+        </member>
+        <member name="P:ShortenUrlApi.Presentation.Models.GetUrlRequest.ShortCode">
+            <summary>
+            The short code to retrieve the original URL for
+            </summary>
+        </member>
+        <member name="T:ShortenUrlApi.Presentation.Models.ShortenUrlRequest">
+            <summary>
+            Request model for URL shortening
+            </summary>
+        </member>
+        <member name="P:ShortenUrlApi.Presentation.Models.ShortenUrlRequest.OriginalUrl">
+            <summary>
+            The original URL to be shortened
+            </summary>
+        </member>
+        <member name="T:ShortenUrlApi.Presentation.Models.ShortenUrlResponse">
+            <summary>
+            Response model for URL shortening operation
+            </summary>
+        </member>
+        <member name="P:ShortenUrlApi.Presentation.Models.ShortenUrlResponse.OriginalUrl">
+            <summary>
+            The original URL that was shortened
+            </summary>
+        </member>
+        <member name="P:ShortenUrlApi.Presentation.Models.ShortenUrlResponse.ShortUrl">
+            <summary>
+            The shortened version of the URL
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/hasr2CxFSJCZVEc00MR1uXeb559JSGk6fXBC1rz/DJaCJBtHmSMcjjq3ByZbZFdmJj4ClSfRn00IvmS/k//A==",
+  "success": true,
+  "projectFilePath": "D:\\cursorProjects\\ShortnerUrlproject\\ShortnerUrlApi\\src\\Application\\ShortenUrlApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AJAY\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\AJAY\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\AJAY\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\AJAY\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

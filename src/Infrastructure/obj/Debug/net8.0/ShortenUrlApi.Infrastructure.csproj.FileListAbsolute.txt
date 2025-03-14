@@ -1,0 +1,17 @@
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\bin\Debug\net8.0\ShortenUrlApi.Infrastructure.deps.json
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\bin\Debug\net8.0\ShortenUrlApi.Infrastructure.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\bin\Debug\net8.0\ShortenUrlApi.Infrastructure.pdb
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\bin\Debug\net8.0\ShortenUrlApi.Application.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\bin\Debug\net8.0\ShortenUrlApi.Domain.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\bin\Debug\net8.0\ShortenUrlApi.Application.pdb
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\bin\Debug\net8.0\ShortenUrlApi.Domain.pdb
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\ShortenUrlApi.Infrastructure.csproj.AssemblyReference.cache
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\ShortenUrlApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\ShortenUrlApi.Infrastructure.AssemblyInfoInputs.cache
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\ShortenUrlApi.Infrastructure.AssemblyInfo.cs
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\ShortenUrlApi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\ShortenU.533EDFF5.Up2Date
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\ShortenUrlApi.Infrastructure.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\refint\ShortenUrlApi.Infrastructure.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\ShortenUrlApi.Infrastructure.pdb
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Infrastructure\obj\Debug\net8.0\ref\ShortenUrlApi.Infrastructure.dll

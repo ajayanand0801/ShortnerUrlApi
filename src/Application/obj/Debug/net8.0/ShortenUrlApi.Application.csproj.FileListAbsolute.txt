@@ -1,0 +1,15 @@
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\bin\Debug\net8.0\ShortenUrlApi.Application.deps.json
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\bin\Debug\net8.0\ShortenUrlApi.Application.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\bin\Debug\net8.0\ShortenUrlApi.Application.pdb
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\bin\Debug\net8.0\ShortenUrlApi.Domain.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\bin\Debug\net8.0\ShortenUrlApi.Domain.pdb
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\ShortenUrlApi.Application.csproj.AssemblyReference.cache
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\ShortenUrlApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\ShortenUrlApi.Application.AssemblyInfoInputs.cache
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\ShortenUrlApi.Application.AssemblyInfo.cs
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\ShortenUrlApi.Application.csproj.CoreCompileInputs.cache
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\ShortenU.8353BB3D.Up2Date
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\ShortenUrlApi.Application.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\refint\ShortenUrlApi.Application.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\ShortenUrlApi.Application.pdb
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Application\obj\Debug\net8.0\ref\ShortenUrlApi.Application.dll

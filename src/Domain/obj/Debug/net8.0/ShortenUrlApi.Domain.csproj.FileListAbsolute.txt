@@ -1,0 +1,11 @@
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\bin\Debug\net8.0\ShortenUrlApi.Domain.deps.json
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\bin\Debug\net8.0\ShortenUrlApi.Domain.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\bin\Debug\net8.0\ShortenUrlApi.Domain.pdb
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\obj\Debug\net8.0\ShortenUrlApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\obj\Debug\net8.0\ShortenUrlApi.Domain.AssemblyInfoInputs.cache
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\obj\Debug\net8.0\ShortenUrlApi.Domain.AssemblyInfo.cs
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\obj\Debug\net8.0\ShortenUrlApi.Domain.csproj.CoreCompileInputs.cache
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\obj\Debug\net8.0\ShortenUrlApi.Domain.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\obj\Debug\net8.0\refint\ShortenUrlApi.Domain.dll
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\obj\Debug\net8.0\ShortenUrlApi.Domain.pdb
+D:\cursorProjects\ShortnerUrlproject\ShortnerUrlApi\src\Domain\obj\Debug\net8.0\ref\ShortenUrlApi.Domain.dll
